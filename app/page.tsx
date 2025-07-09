@@ -82,7 +82,7 @@ export default function Home() {
 <section className="mx-5 mt-7">
   <div className="container flex flex-col px-4 items-center md:flex-row md:items-start md:ml-32 space-y-6">
     <div className="w-full md:w-1/2 max-w-160">
-      <h2 className="font-black text-4xl md:text-5xl text-center md:text-left">What's different about Manage?</h2>
+      <h2 className="font-black text-4xl md:text-5xl text-center md:text-left">What is different about Manage?</h2>
       <p className="text-gray-600 mt-10 text-center md:text-left max-w-120">Manage provides all the functionality your team needs, without the complexity. Our software is tailor-made for modern digital product teams.</p>
     </div>
     <div className="w-full md:w-1/2 md:pr-10 ">
