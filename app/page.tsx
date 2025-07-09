@@ -125,7 +125,7 @@ export default function Home() {
 
 <section>
   <div className="mx-auto">
-    <h2 className="text-4xl font-bold pt-15 pb-20 text-center">What's Different About Manage?</h2>
+    <h2 className="text-4xl font-bold pt-15 pb-20 text-center">Whatis Different About Manage?</h2>
     </div>
    <div className="container mx-auto px-4 pt-2">
   <div className="flex flex-col md:flex-row gap-1 md:gap-10 justify-center items-stretch">
