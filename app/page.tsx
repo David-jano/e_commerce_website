@@ -134,7 +134,7 @@ export default function Home() {
       <Image src="/avatar-anisha.png" alt="anisha" width={70} height={70} className="-mt-18" />
       <h2 className="font-bold text-2xl text-center">Anisha Li</h2>
       <p className="pt-4 text-center text-gray-700">
-        “Manage has supercharged our team’s workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated.”
+        “Manage has supercharged our team workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated.”
       </p>
     </div>
 
@@ -150,7 +150,7 @@ export default function Home() {
       <Image src="/avatar-richard.png" alt="richard" width={70} height={70} className="-mt-18" />
       <h2 className="font-bold text-2xl text-center">Richard Watts</h2>
       <p className="pt-4 text-center text-gray-700">
-        “Manage has supercharged our team’s workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated.”
+        “Manage has supercharged our teams workflow. The ability to maintain visibility on larger milestones at all times keeps everyone motivated.”
       </p>
     </div>
 
